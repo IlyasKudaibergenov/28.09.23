@@ -1,0 +1,134 @@
+body {
+    background-color:rgb(130, 130, 163);
+}
+h2 {
+    text-align: center;
+}
+.up  {
+    width: 1230px;
+    height: 90px;
+    background-color: white;
+    background-size: cover;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    margin-bottom: 10px;
+}
+.menu {
+    text-align: center;
+    display: inline-block;
+}
+.box2 {
+    justify-content: center;
+}
+img {
+    width: 90px;
+    height: 90px;
+}
+a {
+    text-decoration: none;
+    font-size: small;
+}
+p {
+    font-size: small;
+}
+.boxd1 {
+    float: left;
+    align-items: center;
+    justify-content: center;
+    text-align: left;
+    font-size:small;
+    border-radius: 10%;
+    width: 200px;
+    height: 380px;
+    background-color: rgb(149, 130, 214);
+}
+h4 {
+    text-align: left;
+    margin-left: 10px;
+}
+.boxd2 {
+    
+    text-align: left;
+    font-size:small;
+    border-radius: 10%;
+    width: 200px;
+    height: 380px;
+    background-color: rgb(149, 130, 214);
+}
+.boxd3 {
+    float: left;
+    align-items: center;
+    justify-content: center;
+    text-align: left;
+    font-size:small;
+    border-radius: 10%;
+    width: 200px;
+    height: 380px;
+    background-color: rgb(149, 130, 214);
+}
+.down {
+    display: flex;
+    justify-content: space-around;
+}
+.text1 {
+    margin-left: 10px;
+}
+.text2 {
+    margin-left: 10px;
+}
+.text3 {
+    margin-left: 10px;
+}
+.sq11 {
+    background-color:  rgb(149, 130, 214);
+    width: 50px;
+    height: 50px;
+    position: relative;
+    bottom: 50px;
+    left: 25px;
+}
+.sq12 {
+    background-color:  rgb(149, 130, 214);
+    width: 50px;
+    height: 50px;
+    position: relative;
+    bottom: 380px;
+    right: 25px;
+}
+.sq21 {
+    background-color:  rgb(149, 130, 214);
+    width: 50px;
+    height: 50px;
+    position: relative;
+    bottom: 50px;
+    left: 25px;
+}
+.sq22 {
+    background-color:  rgb(149, 130, 214);
+    width: 50px;
+    height: 50px;
+    position: relative;
+    bottom: 380px;
+    right: 25px;
+}
+.sq31 {
+    background-color:  rgb(149, 130, 214);
+    width: 50px;
+    height: 50px;
+    position: relative;
+    bottom: 50px;
+    left: 25px;
+}
+.sq32 {
+    background-color:  rgb(149, 130, 214);
+    width: 50px;
+    height: 50px;
+    position: relative;
+    bottom: 380px;
+    right: 25px;
+}
+.all {
+    display: flex;
+    justify-content: space-around;
+}
